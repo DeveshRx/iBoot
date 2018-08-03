@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iBoot.iml" filepath="$PROJECT_DIR$/iBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iboot/iboot.iml" filepath="$PROJECT_DIR$/iboot/iboot.iml" />
+    </modules>
+  </component>
+</project>
